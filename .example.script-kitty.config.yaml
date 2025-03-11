@@ -1,0 +1,7 @@
+projects:
+    global:
+        aliases:
+            - alias: hello
+              script: echo 'hello'
+            - alias: dostuff
+              script: echo 'do stuff'
